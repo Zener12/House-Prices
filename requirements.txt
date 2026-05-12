@@ -1,4 +1,6 @@
 scikit-learn
+xgboost
+lightgbm
 catboost
 matplotlib
 seaborn
@@ -6,3 +8,4 @@ pandas
 numpy
 shap
 optuna
+kagglehub
